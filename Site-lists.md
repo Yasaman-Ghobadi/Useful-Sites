@@ -2,3 +2,4 @@
 2. [Site for picking colors](https://flatuicolors.com/)
 3. [HTML, CSS & JS cheatsheet](https://htmlcheatsheet.com/)
 4. [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+4. [free svg for web desining](https://freesvg.org/)
