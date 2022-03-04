@@ -6,3 +6,5 @@
 5. [Logo Maker for link rel="shortcut icon" in HTML](https://xiconeditor.com/)
 6. [Pick Specific Colors From A Picture](https://imagecolorpicker.com/en)
 7. [Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator)
+8. [The Ultimate Web Developer Resource](https://devsnap.me/)
+8. 
