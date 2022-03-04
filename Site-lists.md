@@ -7,4 +7,4 @@
 6. [Pick Specific Colors From A Picture](https://imagecolorpicker.com/en)
 7. [Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator)
 8. [The Ultimate Web Developer Resource](https://devsnap.me/)
-8. 
+9. [Super Resources for Developers and Makers](https://superdevresources.com/)
