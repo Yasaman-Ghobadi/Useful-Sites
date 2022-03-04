@@ -8,3 +8,6 @@
 7. [Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator)
 8. [The Ultimate Web Developer Resource](https://devsnap.me/)
 9. [Super Resources for Developers and Makers](https://superdevresources.com/)
+10. [Free Bootstrap Templates](https://bootstrapmade.com/)
+
+
