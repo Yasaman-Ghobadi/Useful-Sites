@@ -10,5 +10,7 @@
 9. [Super Resources for Developers and Makers](https://superdevresources.com/)
 10. [Free Bootstrap Templates](https://bootstrapmade.com/)
 11. [The site you want — without the dev time](https://webflow.com/)
+12. [Color palettes generator](https://coolors.co/)
+13. 
 
 
