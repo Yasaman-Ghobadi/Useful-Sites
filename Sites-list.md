@@ -17,5 +17,6 @@
 16. [Css Shadow generator](https://css3gen.com/)
 17. [Fontawesome](https://fontawesome.com/)
 18. [Download Fontawesome](https://fontawesome.com/download)
+19. [To see if sth is supported by other browsers / can i use](https://caniuse.com/)
 
 
