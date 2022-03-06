@@ -16,5 +16,6 @@
 15. [Css Gradient](https://cssgradient.io/)
 16. [Css Shadow generator](https://css3gen.com/)
 17. [Fontawesome](https://fontawesome.com/)
+18. [Download Fontawesome](https://fontawesome.com/download)
 
 
