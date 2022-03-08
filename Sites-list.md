@@ -19,5 +19,8 @@
 18. [Fontawesome](https://fontawesome.com/)
 19. [Download Fontawesome](https://fontawesome.com/download)
 20. [To see if sth is supported by other browsers / can i use](https://caniuse.com/)
+21. [PX to REM converter](https://nekocalc.com/px-to-rem-converter)
+22. [To see if we need prefixes or not](http://shouldiprefix.com/)
+23. [Neumorphism generator](https://neumorphism.io/)
 
 
