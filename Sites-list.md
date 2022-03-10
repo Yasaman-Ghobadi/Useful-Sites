@@ -24,5 +24,6 @@
 23. [Neumorphism generator](https://neumorphism.io/)
 24. [CSS3Ps - converts your layers to CSS3](http://css3ps.com/)
 25. [SVG to PNG converter](https://svgtopng.com/)
+26. [download transparent PNG cliparts](https://www.hiclipart.com/)
 
 
